@@ -19,7 +19,6 @@ Ohayoo
 - 👯 I’m looking to collaborate with a Pro Lead
 - 💬 you can Ask me anything
 - 📫 How to reach me: you cab text me or contact me at [discord](https://discord.gg/EUx7yX7f) 
-- ⚡ Fun fact: 
 <!--
 **Turria101/Turria101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
