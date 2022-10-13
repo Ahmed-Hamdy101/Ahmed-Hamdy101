@@ -13,12 +13,12 @@ Ohayoo
 </div>
 </div>
 
-- I am a Full stack Developer
-- 🔭 I’m currently working on PHP Coffe 
-- 🌱 I’m currently learning Machine learning and Trainning on IT-Support and Cyber-Security
+- ✨ Hi there my name's Ahmed you can call me mando or - Tron- or even Turrai , I am a Full Stack Web Developer as Larvael PHP
+- 🔭 I’m currently working on PHP Coffe dev /web dev and IOS app + Desktop app
+- 🌱 I’m currently learning Machine learning and Training  on IT-Support-Specialist With Google also Cyber-Security
 - 👯 I’m looking to collaborate with a Pro Lead
-- 💬 Ask me anything
-- 📫 How to reach me: you cab text me or contact me at [discord](https://discord.gg/EUx7yX7f)
+- 💬 you can Ask me anything
+- 📫 How to reach me: you cab text me or contact me at [discord](https://discord.gg/EUx7yX7f) 
 - ⚡ Fun fact: 
 <!--
 **Turria101/Turria101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
