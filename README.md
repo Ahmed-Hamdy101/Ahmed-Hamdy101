@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 |![My Skills](images/ft_end.png) | ![My Skills](images/bk_end.png) |![My Skills](images/dv_ops.png) |
 |               ---                   |                   ---                |        ---                          |
 # My Stats :
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Turria101/Turria101?style=social">
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Turria101?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
