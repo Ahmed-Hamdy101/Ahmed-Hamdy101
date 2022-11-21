@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My Skills 
-![My Skills](images/My%20Skills.jpg)
+
+|![My Skills](images/My%20Skills.jpg) | ![My Skills](images/My%20Skills.jpg) |![My Skills](images/My%20Skills.jpg) |
+|               ---                   |                   ---                |        ---                          |
