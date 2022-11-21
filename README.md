@@ -19,7 +19,7 @@ Ohayoo
 
   ## Good to see you  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Turria101/Turria101?style=social">
   
-  I am Full Stack Web Developer, I Love Coding, Writing, Learning New Things, Speaking New Languages
+  I am Full Stack Web Developers, I Love Coding, Writing, Learning New Things, Speaking New Languages
   
   As Full Stack I like make Diference Things, I love to makes an new idea to make this world is better place
   
