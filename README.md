@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 -->
 ## My Skills 
 
-|![My Skills](images/My%20Skills.jpg) | ![My Skills](images/My%20Skills.jpg) |![My Skills](images/My%20Skills.jpg) |
+|![My Skills](ft_end.png) | ![My Skills](images/bk_end.png) |![My Skills](images/dv_ops.png) |
 |               ---                   |                   ---                |        ---                          |
