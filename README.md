@@ -17,7 +17,7 @@ Ohayoo
 </div>
 </div>
 
-  ## Good to see you : <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Turria101/Turria101?style=social">
+  ## Good to see you  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Turria101/Turria101?style=social">
   
   I am Full Stack Web Developer, I Love Coding, Writing, Learning New Things, Speaking New Languages
   
