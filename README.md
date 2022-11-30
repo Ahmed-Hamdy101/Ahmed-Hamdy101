@@ -17,7 +17,7 @@ Ohayoo
 </div>
 </div>
 
-  ## Good to see you  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Turria101/Turria101?style=social">
+  ## Good to see you  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Turria101/Ahmed-Hamdy101?style=social">
   
   I am Full Stack Web Developers, I Love Coding, Writing, Learning New Things, Speaking New Languages
   
@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 |![My Skills](images/ft_end.png) | ![My Skills](images/bk_end.png) |![My Skills](images/dv_ops.png) |
 |               ---                   |                   ---                |        ---                          |
 # My Stats :
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Turria101?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
