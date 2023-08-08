@@ -15,9 +15,9 @@
       <h2 align="center"> Hi there, I'm Ahmed Hamdy </h2> 
     <h5 align="center"> You can call me mando/Tron/Turrai </h5>
 
+   <img src="images/software-engineer.png" width="400"/>
 </div>
 
-   <img src="images/software-engineer.png" />
   
   I am Full Stack Web Developers, I Love Coding, Writing, Learning New Things, Speaking New Languages
   
