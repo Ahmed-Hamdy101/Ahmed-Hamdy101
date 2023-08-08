@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 | Name|      Role        | Profile
 | ---  |        ---      | ---------|
-|Mina| NodeJs Back End Devloper | <a href="https://avatars.githubusercontent.com/u/94504141?v=4"><img src="47836846.jpg" width="90"/> </a>
+|Mina| NodeJs Back End Devloper | <a href="https://avatars.githubusercontent.com/u/94504141?v=4"><img src="https://avatars.githubusercontent.com/u/47836846?s=100&v=4" width="90"/> </a>
 |Ahmed Hamdy|Full Stack Devloper | <a href="https://avatars.githubusercontent.com/u/94504141?v=4"><img src="https://avatars.githubusercontent.com/u/94504141?v=4" width="90"/> </a>|
 
 
