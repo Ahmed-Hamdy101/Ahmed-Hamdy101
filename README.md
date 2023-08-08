@@ -52,15 +52,14 @@ Here are some ideas to get you started:
 
 <h1> My Team </h1>
 <div align="center">
-
-![alt](images/developer-team.png)
-
-</div>
+<img src="images/developer-team.png" width="500">
 
 | Name|      Role        | Profile
 | ---  |        ---      | ---------|
 |Mina| NodeJs Back End Devloper | <a href="https://avatars.githubusercontent.com/u/94504141?v=4"><img src="https://avatars.githubusercontent.com/u/47836846?s=100&v=4" width="90"/> </a>
 |Ahmed Hamdy|Full Stack Devloper | <a href="https://avatars.githubusercontent.com/u/94504141?v=4"><img src="https://avatars.githubusercontent.com/u/94504141?v=4" width="90"/> </a>|
+</div>
+
 
 
 ## Contact Us 
