@@ -23,11 +23,11 @@
   
 - 🔭 I’m currently working at **Al Kayan construction and engineer consultation** as **full-stack** -**Developer**, and also have stright goal to become **IOS Developer +x desktop**
 
-- 🌱 I’m currently Training On Some coursed in IT field ,I want to become S.R React Developer,also Software Enginee, Depth work in Cyber-Security, I like to manage my time, Deep-Deiv without stop  
+- 🌱 I’m currently Training On Some coursed in the IT field, I want to become S.R React Developer, also Software Engineer, Depth work in Cyber-Security, I like to manage my time, Deep-Deiv without stop  
   
 - 👯 I’m looking to collaborate with Some Cool Developer
-- 💬 you can Ask me anything, I like Peoples to ask me 
-- 📫 How to reach me: you can text me or contact me at Facebook... 
+- 💬 you can Ask me anything, I like People to ask me 
+- 📫 How to reach me: you can text me or contact me on Facebook... 
 <!--
 **Turria101/Turria101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
