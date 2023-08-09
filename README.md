@@ -47,9 +47,7 @@ Here are some ideas to get you started:
 |![My Skills](images/ft_end.png) | ![My Skills](images/bk_end.png) |![My Skills](images/dv_ops.png) |
 |               ---                   |                   ---                |        ---                          |
 # My Stats :
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
-
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101)](https://git.io/awesome-stats-card)
 <h1> My Team </h1>
 <div align="center">
 <img src="images/developer-team.png" width="500">
