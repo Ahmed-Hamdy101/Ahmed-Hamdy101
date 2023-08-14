@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 
 | Name|      Role        | Profile
 | ---  |        ---      | ---------|
-|Mina| NodeJs Back End Devloper | <a href="https://github.com/MinaSameh1"><img src="https://avatars.githubusercontent.com/u/47836846?s=100&v=4" width="90"/> </a>
-|Ahmed Hamdy|Full Stack Devloper | <a href="https://github.com/Ahmed-Hamdy101"><img src="https://avatars.githubusercontent.com/u/94504141?v=4" width="90"/> </a>|
+|Mina| NodeJs Back End Developer | <a href="https://github.com/MinaSameh1"><img src="https://avatars.githubusercontent.com/u/47836846?s=100&v=4" width="90"/> </a>
+|Ahmed Hamdy|Full Stack Developer | <a href="https://github.com/Ahmed-Hamdy101"><img src="https://avatars.githubusercontent.com/u/94504141?v=4" width="90"/> </a>|
 </div>
 
 
