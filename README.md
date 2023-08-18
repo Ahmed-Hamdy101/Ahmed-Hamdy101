@@ -1,21 +1,19 @@
 
-
 <div id="header" align="center">
 
   <img src="images/fMykqvKl2v03_1584_396.png" />
   <div id="badges">
   
 [![Join the Discord channel](https://img.shields.io/static/v1.svg?label=Panda%20Shell&message=🎆&color=7289DA&logo=discord&logoColor=white&labelColor=2C2F33)](https://discord.gg/jaCuAPQUA)
-[![Follow me on Twitter](https://img.shields.io/static/v1.svg?label=Torn&message=🤙&color=red&logo=twitter&style=social)](https://twitter.com/Torn40535516)
-[![Follow me on Twitter](https://img.shields.io/static/v1.svg?label=Follow%20me&message=👋&logo=facebook&style=social)](https://https://facebook.com/exfove) 
 [![Send me a message on WhatsApp](https://img.shields.io/static/v1.svg?label=Send%20a%20message&message=🙈&color=1ebea5&logo=whatsapp&logoColor=white&labelColor=1ebea5)](https://wa.me/201141640812?text=I'm%20interested%20in%20your%20car%20for%20sale)
 [![Email me](https://img.shields.io/static/v1.svg?label=Email%20me&labelColor=blueviolet&message=🌎)](mailto:ahmedhamdy.mh95@gmail.com)
-
-</div>
-      <h2 align="center"> Hi there, I'm Ahmed Hamdy </h2> 
-    <h5 align="center"> You can call me mando/Tron/Turrai </h5>
-
-   <img src="images/software-engineer.png" width="400"/>
+<a href="https://www.behance.net/exfove">
+<img src="https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white"/>
+</a>
+<a href="https://www.behance.net/exfove">
+<img src="Google Drive 	![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)"/>
+</a>
+<h2 align="center"> Hi there, I'm Ahmed Hamdy </h2> 
 </div>
 
   
