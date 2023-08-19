@@ -2,6 +2,7 @@
 <div id="header" align="center">
 <img src="./images/DYnj55GaAfoa_1584_396.png" width="900"/>
 <div id="badges">
+  <br>
   
 [![Join the Discord channel](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&label=Join%20On%20My%20Server&labelColor=7289DA)](https://discord.gg/jaCuAPQUA)
 [![text me](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&label=Text%20Me%20On&labelColor=25D366)](https://wa.me/201141640812?text=I'm%20interested%20in%20your%20car%20for%20sale)
@@ -18,12 +19,10 @@
   <img  align="right" src="images/undraw_profile_re_4a55.svg" width="400" />
   I am Full Stack Web Developers, I Love Coding, Writing, Learning New Things, Speaking New Languages
   
-- 🔭 I’m currently working at **Al Kayan construction and engineer consultation** as **full-stack** -**Developer**, and also have stright goal to become **IOS Developer +x desktop**
-
-- 🌱 I’m currently Training On Some coursed in the IT field, I want to become S.R React Developer, also Software Engineer, Depth work in Cyber-Security, I like to manage my time, Deep-Deiv without stop  
-  
-- 👯 I’m looking to collaborate with Some Cool Developer
-- 💬 you can Ask me anything, I like People to ask me 
+- 🔭 I’m currently working at **Al Kayan Construction and Engineer consultation** as **full-stack** -**Developer**, I am also a BackEnd Nodejs, Tech Support, Director of Cs, Love Art, interested in Cyber Security and Desktop Applications
+- 🌱 I’m currently Training On Some coursed in the IT field
+- 👯 I’m looking to collaborate with Some %x Developers
+- 💬 you can Ask me anything, I like People to ask me .
 - 📫 How to reach me: you can text me or contact me on Facebook... 
 <!--
 **Turria101/Turria101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
