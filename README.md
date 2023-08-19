@@ -31,7 +31,7 @@
 
 |![My Skills](images/ft_end.png) | ![My Skills](images/bk_end.png) |![My Skills](images/dv_ops.png) |
 |               ---                   |                   ---                |        ---                          |
-# GITHUB Stats 
+# Github Stats 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&theme=blue-green" height="290"/>
 <img  src="https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?theme=tokyonight"/>
 
@@ -52,6 +52,6 @@
 ## Contact Us 
 <div align="center">
 
-[![Join the Discord channel](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&label=Join%20On%20My%20Server&labelColor=7289DA)](https://discord.gg/jaCuAPQUA)
-[![Chat with US](https://img.shields.io/static/v1.svg?label=Chat%20With%20us&message=🙈&color=1ebea5&logo=whatsapp&logoColor=white&labelColor=1ebea5)](https://wa.me/15551234567?text=I'm%20interested%20in%20your%20car%20for%20sale) 
+[![Chat With US](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&label=Join%20On%20My%20Server&labelColor=7289DA)](https://discord.gg/jaCuAPQUA)
+[![Ask anything](https://img.shields.io/static/v1.svg?label=Chat%20With%20us&message=🙈&color=1ebea5&logo=whatsapp&logoColor=white&labelColor=1ebea5)](https://chat.whatsapp.com/Ch3swY4hTuk70PjOulGYdj) 
 </div>
