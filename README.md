@@ -52,6 +52,6 @@
 ## Contact Us 
 <div align="center">
 
-[![Chat With US](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&label=Join%20On%20My%20Server&labelColor=7289DA)](https://discord.gg/jaCuAPQUA)
-[![Ask anything](https://img.shields.io/static/v1.svg?label=Chat%20With%20us&message=🙈&color=1ebea5&logo=whatsapp&logoColor=white&labelColor=1ebea5)](https://chat.whatsapp.com/Ch3swY4hTuk70PjOulGYdj) 
+[![Chat With US](https://img.shields.io/badge/Discord-7289DA?style=social&logo=discord&logoColor=black&label=Panda%20Shell&labelColor=7289DA)](https://discord.gg/jaCuAPQUA)
+[![Ask anything](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&label=Panda%20Shell&labelColor=25D366)](https://chat.whatsapp.com/Ch3swY4hTuk70PjOulGYdj) 
 </div>
