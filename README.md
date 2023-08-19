@@ -37,7 +37,7 @@
 
 <br>
 
-## My Team 
+## Group
 <div>
 <img src="images/developer-team.png" align="right" width="300">
 
@@ -49,7 +49,7 @@
 
 
 
-## Contact Us 
+## Group Chat / Community
 <div align="center">
 
 [![Chat With US](https://img.shields.io/badge/Discord-7289DA?style=social&logo=discord&logoColor=black&label=Panda%20Shell&labelColor=7289DA)](https://discord.gg/jaCuAPQUA)
