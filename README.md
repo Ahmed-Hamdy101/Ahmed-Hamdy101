@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-Behance-blue?style=flat&logo=behance&logoColor=white&label=Exf&labelColor=blue"/>
 </a>
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white&label=My%20Resume&labelColor=4285A9)]()
-[![Google Drive](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&label=Hire%20Me&labelColor=4285A9)]()
+[![Google Drive](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&label=Hire%20Me&labelColor=4285A9)](https://drive.google.com/file/d/1T3WcmOvw0V6Kowa8zrRlEl1HmIwyu3nC/view?usp=drive_link)
 </div>
 </div>
 
@@ -37,7 +37,7 @@
 
 <br>
 
-## Group
+## Group / Team
 <div>
 <img src="images/developer-team.png" align="right" width="300">
 
@@ -50,8 +50,42 @@
 
 
 ## Group Chat / Community
-<div align="center">
-
-[![Chat With US](https://img.shields.io/badge/Discord-7289DA?style=social&logo=discord&logoColor=black&label=Panda%20Shell&labelColor=7289DA)](https://discord.gg/jaCuAPQUA)
+<div align="left">
+<table>
+<tr  align="center">
+  <td> Group</td>
+  <td> Social</td>
+ </tr>
+<thead>
+<thead>
+<tbody>
+<tr>
+<td>
+Discord
+</td>
+<td>    
+  
+[![Chat With US](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=black&label=Panda%20$~&labelColor=7289FA)](https://discord.gg/jaCuAPQUA) 
+</td>
+</tr>
+<tr>
+<td> WhatsApp</td>
+<td> 
+  
 [![Ask anything](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&label=Panda%20Shell&labelColor=25D366)](https://chat.whatsapp.com/Ch3swY4hTuk70PjOulGYdj) 
+
+</td>
+</tr>
+
+<tr>
+<td> WhatsApp Community</td>
+<td> 
+  
+ [![Ask anything](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&labelColor=25D366&label=Panda%20$~)](https://chat.whatsapp.com/J3poLyl1J3iBniqRo6wUxI) 
+
+</td>
+</tr>
+
+</tbody> 
+</table>
 </div>
