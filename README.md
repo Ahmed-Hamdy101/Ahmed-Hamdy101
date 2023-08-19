@@ -16,37 +16,30 @@
 </div>
 
   <h2> About Me </h2>
+
   <img  align="right" src="images/undraw_profile_re_4a55.svg" width="400" />
+
   I am Full Stack Web Developers, I Love Coding, Writing, Learning New Things, Speaking New Languages
   
 - 🔭 I’m currently working at **Al Kayan Construction and Engineer consultation** as **full-stack** -**Developer**, I am also a BackEnd Nodejs, Tech Support, Director of Cs, Love Art, interested in Cyber Security and Desktop Applications
-- 🌱 I’m currently Training On Some coursed in the IT field
+- 🌱 I’m currently learning On Some coursed in the IT field
 - 👯 I’m looking to collaborate with Some %x Developers
-- 💬 you can Ask me anything, I like People to ask me .
-- 📫 How to reach me: you can text me or contact me on Facebook... 
-<!--
-**Turria101/Turria101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 you can Ask me anything, I like people to ask me.
+- 📫 How to reach me: [![](https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook&logoColor=black&label=contact%20Me&labelColor=4285A9)](https://www.facebook.com/exfove/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## My Skills 
 
 |![My Skills](images/ft_end.png) | ![My Skills](images/bk_end.png) |![My Skills](images/dv_ops.png) |
 |               ---                   |                   ---                |        ---                          |
-# My Stats :
-![tokyonight](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?theme=tokyonight)
-<h1> My Team </h1>
-<div align="center">
-<img src="images/developer-team.png" width="500">
+# GITHUB Stats 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&theme=blue-green" height="290"/>
+<img  src="https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?theme=tokyonight"/>
+
+<br>
+
+## My Team 
+<div>
+<img src="images/developer-team.png" align="right" width="300">
 
 | Name|      Role        | Profile
 | ---  |        ---      | ---------|
