@@ -52,5 +52,6 @@
 ## Contact Us 
 <div align="center">
 
-[![Join the Discord channel](https://img.shields.io/static/v1.svg?label=Panda%20Shell&message=🎆&color=7289DA&logo=discord&logoColor=white&labelColor=2C2F33)](https://discord.gg/jaCuAPQUA) [![Chat with US](https://img.shields.io/static/v1.svg?label=Chat%20With%20us&message=🙈&color=1ebea5&logo=whatsapp&logoColor=white&labelColor=1ebea5)](https://wa.me/15551234567?text=I'm%20interested%20in%20your%20car%20for%20sale) 
+[![Join the Discord channel](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white&label=Join%20On%20My%20Server&labelColor=7289DA)](https://discord.gg/jaCuAPQUA)
+[![Chat with US](https://img.shields.io/static/v1.svg?label=Chat%20With%20us&message=🙈&color=1ebea5&logo=whatsapp&logoColor=white&labelColor=1ebea5)](https://wa.me/15551234567?text=I'm%20interested%20in%20your%20car%20for%20sale) 
 </div>
