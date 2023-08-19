@@ -22,7 +22,7 @@
   I am Full Stack Web Developers, I Love Coding, Writing, Learning New Things, Speaking New Languages
   
 - 🔭 I’m currently working at **Al Kayan Construction and Engineer consultation** as **full-stack** -**Developer**, I am also a BackEnd Nodejs, Tech Support, Director of Cs, Love Art, interested in Cyber Security and Desktop Applications
-- 🌱 I’m currently learning On Some coursed in the IT field
+- 🌱 I’m currently learning On Some courses in the IT field
 - 👯 I’m looking to collaborate with Some %x Developers
 - 💬 you can Ask me anything, I like people to ask me.
 - 📫 How to reach me: [![](https://img.shields.io/badge/Facebook-1877F2?style=social&logo=facebook&logoColor=black&label=contact%20Me&labelColor=4285A9)](https://www.facebook.com/exfove/)
