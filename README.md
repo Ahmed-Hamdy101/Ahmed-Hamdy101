@@ -43,7 +43,7 @@
 
 | DEVELOPER |      ROLE        | VISIT ME
 | ---  |        ---      | ---------|
-|Mina| NodeJs Back End Developer | <a href="https://github.com/MinaSameh1"><img src="https://avatars.githubusercontent.com/u/47836846?s=100&v=4" width="90"/> </a>
+|Mina| NodeJs Back End Developer | <a href="https://github.com/MinaSameh1"><img src="https://avatars.githubusercontent.com/u/47836846?s=100&v=4" width="90"/> </a>  <br> <hr> <a href="https://github.com/MinaSameh1"><img src="https://img.shields.io/badge/GitHub-1092B5?style=flat&logo=github&logoColor=white&label=Profile&labelColor=6282F2" /> </a>
 </div>
 
 
@@ -69,11 +69,11 @@ Discord
 [![Chat With US](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=black&label=Panda%20$~&labelColor=7289FA)](https://discord.gg/jaCuAPQUA) 
 </td>
 <td>    
-  Mna Sameh| Ahmed Hamdy
+  Mina Sameh | Ahmed Hamdy
 </td>
 <td>    
   
-[![Chat With US](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=black&label=Panda%20$~&labelColor=7289FA)](https://discord.gg/jaCuAPQUA) 
+_____________
 </td>
 </tr>
 <tr>
@@ -81,6 +81,16 @@ Discord
 <td> 
   
 [![Ask anything](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&label=Panda%20Shell&labelColor=25D366)](https://chat.whatsapp.com/Ch3swY4hTuk70PjOulGYdj) 
+
+</td>
+<td> 
+  
+  Mina Sameh | Ahmed Hamdy
+
+</td>
+<td> 
+
+  _____________
 
 </td>
 </tr>
@@ -91,6 +101,14 @@ Discord
   
  [![Ask anything](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&labelColor=25D366&label=Panda%20$~)](https://chat.whatsapp.com/J3poLyl1J3iBniqRo6wUxI) 
 
+</td>
+<td> 
+  
+  Mina Sameh | Ahmed Hamdy
+
+</td>
+<td> 
+  _____________
 </td>
 </tr>
 
