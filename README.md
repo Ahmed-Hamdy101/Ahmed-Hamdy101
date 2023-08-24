@@ -41,10 +41,9 @@
 <div>
 <img src="images/developer-team.png" align="right" width="300">
 
-| Name|      Role        | Profile
+| DEVELOPER |      ROLE        | VISIT ME
 | ---  |        ---      | ---------|
 |Mina| NodeJs Back End Developer | <a href="https://github.com/MinaSameh1"><img src="https://avatars.githubusercontent.com/u/47836846?s=100&v=4" width="90"/> </a>
-|Ahmed Hamdy|Full Stack Developer | <a href="https://github.com/Ahmed-Hamdy101"><img src="https://avatars.githubusercontent.com/u/94504141?v=4" width="90"/> </a>|
 </div>
 
 
@@ -89,5 +88,7 @@ Discord
 </tbody> 
 </table>
 </div>
+
 ## Website Community
- The developer is working on a community site to establish an extensive network via the world including social media, and store members
+
+ The developers are working on a community site to establish an extensive network including social media, and store members
