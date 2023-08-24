@@ -54,6 +54,8 @@
 <tr  align="center">
   <td> Group</td>
   <td> Social</td>
+  <td> ADMIN</td>
+  <td> MODERATORS </td>
  </tr>
 <thead>
 <thead>
@@ -61,6 +63,13 @@
 <tr>
 <td>
 Discord
+</td>
+<td>    
+  
+[![Chat With US](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=black&label=Panda%20$~&labelColor=7289FA)](https://discord.gg/jaCuAPQUA) 
+</td>
+<td>    
+  Mna Sameh| Ahmed Hamdy
 </td>
 <td>    
   
