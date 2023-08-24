@@ -89,6 +89,7 @@ Discord
 </table>
 </div>
 
+
 ## Website Community
 
  The developers are working on a community site to establish an extensive network including social media, and store members
