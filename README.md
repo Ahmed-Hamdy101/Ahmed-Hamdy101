@@ -89,5 +89,5 @@ Discord
 </tbody> 
 </table>
 </div>
-## Website 
- the developer working on
+## Website Community
+ The developer is working on a community site to establish an extensive network via the world including social media, and store members
