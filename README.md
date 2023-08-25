@@ -43,10 +43,12 @@
 
 | DEVELOPER |      ROLE        | PROFILE | GITHUB LINK |
 | ---  |        ---      | ---------| --- |
-|Mina| NodeJs Back End Developer | <a href="https://github.com/MinaSameh1"><img src="https://avatars.githubusercontent.com/u/47836846?s=100&v=4" width="90"/> </a> | <a href="https://github.com/MinaSameh1"><img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=white&label=LINK&labelColor=black" /> </a>
+|Mina| NodeJs Back End Developer | <a href="https://github.com/MinaSameh1"><img src="https://avatars.githubusercontent.com/u/47836846?s=100&v=4" width="90"/> </a> | <a href="https://github.com/MinaSameh1"><img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=white&label=LINK&labelColor=black" /> </a>|
 </div>
 
-
+<br>
+<br>
+<br>
 
 ## Group Chat / Community
 <div align="left">
