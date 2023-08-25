@@ -48,7 +48,6 @@
 
 <br>
 <br>
-<br>
 
 ## Group Chat / Community
 <div align="left">
