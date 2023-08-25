@@ -71,9 +71,10 @@ Discord
 <td>    
   Mina Sameh | Ahmed Hamdy
 </td>
-<td>    
+<td>
+
+  _____________
   
-_____________
 </td>
 </tr>
 <tr>
@@ -88,10 +89,10 @@ _____________
   Mina Sameh | Ahmed Hamdy
 
 </td>
-<td> 
+<td>
 
   _____________
-
+  
 </td>
 </tr>
 
