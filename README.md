@@ -32,14 +32,18 @@
 |![My Skills](images/ft_end.png) | ![My Skills](images/bk_end.png) |![My Skills](images/dv_ops.png) |
 |               ---                   |                   ---                |        ---                          |
 # Github Stats 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&theme=blue-green" height="290"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&theme=blue-green" height="250"/>
 <img  src="https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?theme=tokyonight"/>
+
+<br>
 
 <br>
 
 ## Group / Team
 <div>
 <img src="images/developer-team.png" align="right" width="300">
+
+<br>
 
 | DEVELOPER |      ROLE        | PROFILE | GITHUB LINK |
 | ---  |        ---      | ---------| --- |
