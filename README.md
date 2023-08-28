@@ -41,7 +41,7 @@
 
 ## Group / Team
 <div>
-<img src="images/developer-team.png" align="right" width="300">
+<img src="images/developer-team.png" align="right" width="250">
 
 <br>
 
