@@ -33,7 +33,7 @@
 |               ---                   |                   ---                |        ---                          |
 # Github Stats 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&theme=blue-green" height="250"/>
-<img  src="https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?theme=tokyonight"/>
+
 
 <br>
 
