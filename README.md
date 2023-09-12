@@ -31,8 +31,8 @@
 
 |![My Skills](images/ft_end.png) | ![My Skills](images/bk_end.png) |![My Skills](images/dv_ops.png) |
 |               ---                   |                   ---                |        ---                          |
-# Github Stats 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&theme=blue-green" height="250"/>
+# Github Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
 
 
 <br>
