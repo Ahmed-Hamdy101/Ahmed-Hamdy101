@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-<img src="./images/Github.png" width="900"/>
+<img src="./images/LinkedIn2.png" width="900"/>
 <div id="badges">
   <br>
   
@@ -17,7 +17,7 @@
 
   <h2> About Me </h2>
 
-  <img  align="right" src="images/undraw_profile_re_4a55.svg" width="400" />
+  <img  align="right" src="images/tech company-rafiki.svg" width="300" />
 
   I am Full Stack Web Developers, I Love Coding, Writing, Learning New Things, Speaking New Languages
   
