@@ -44,7 +44,7 @@
 
 <br>
 
-| DEVELOPER |      ROLE        | PROFILE | GITHUB LINK |
+| DEVELOPER |      ROLE        | PROFILE |  LINK |
 | ---  |        ---      | ---------| --- |
 |Mina| NodeJs Back End Developer & Python Developer | <a href="https://github.com/MinaSameh1"><img src="https://avatars.githubusercontent.com/u/47836846?s=100&v=4" width="90"/> </a> | [![LinkedIn](https://img.shields.io/badge/LinkedIn-04364A?style=flat&logo=linkedin&logoColor=white&label=My%20Profile&labelColor=04364A)](https://www.linkedin.com/in/mina-sameh-258992216/) <br> <hr> <a href="https://github.com/MinaSameh1"><img src="https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=white&label=LINK&labelColor=black" />
 </a>|
