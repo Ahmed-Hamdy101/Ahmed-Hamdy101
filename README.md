@@ -40,7 +40,7 @@
 
 ## Group / Team
 <div>
-<img src="images/developer-team.png" align="right" width="250">
+<img src="images/developer-team.png" align="right" width="190">
 
 <br>
 
