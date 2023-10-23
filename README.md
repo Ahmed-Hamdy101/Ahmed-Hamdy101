@@ -40,7 +40,7 @@
 
 ## Group / Team
 <div align="center">
-<img src="images/developer-team.png" align="right" width="150">
+<img src="images/developer-team.png" align="right" width="190">
 
 | DEVELOPER |      ROLE        | PROFILE |  LINK |
 | ---  |        ---      | ---------| --- |
