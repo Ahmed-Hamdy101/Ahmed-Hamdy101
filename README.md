@@ -39,8 +39,8 @@
 <br>
 
 ## Group / Team
-<div>
-<img src="images/developer-team.png" align="right" width="100">
+<div align="center">
+<img src="images/developer-team.png" align="right" width="150">
 
 | DEVELOPER |      ROLE        | PROFILE |  LINK |
 | ---  |        ---      | ---------| --- |
