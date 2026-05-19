@@ -190,6 +190,14 @@ const ahmed: Engineer = {
 
 ---
 
+## `> roadmap --next`
+
+- 🔬 Implementing RAG + pgvector on Egypt Tour Guide (semantic tour search)
+- 🚀 Shipping AutoFix v1 — AI automotive diagnostics for Egyptian market  
+- 📦 Kubernetes — containerizing tour_guide for horizontal scaling
+- ✍️ Writing technical articles on Redis caching patterns and LLM integration
+
+
 ## `> ls ./team`
 
 | Developer | Role | Links |
