@@ -43,26 +43,28 @@ const ahmed: Engineer = {
 ### 🌍 Full Stack Developer · [ET GCO Tours](https://www-egypt-tour-guide.com) *(Dec 2025 – Present · Remote)*
 > Bilingual tourism PWA serving international travelers — built and branded from scratch
 
-- Architected full-stack bilingual (AR/EN) PWA with **Next.js 15 App Router + Node.js/Express** backend, TypeScript end-to-end
+- Architected full-stack bilingual (GE/EN) PWA with **Next.js 15 App Router + Node.js/Express** backend, TypeScript end-to-end
 - Achieved **LCP < 2.5s** via Redis caching, Gzip compression, and SSR/SSG strategies
 - Designed normalized **PostgreSQL + Drizzle ORM** schema with optimized indexed queries and automated migrations
 - Built enterprise-grade security: Rate limiting, CSRF, NoSQL injection prevention, Express Validator
-- CI/CD via **Vercel** (frontend) + **Oracle Cloud** (backend) with automated SSL/TLS
-
+- CI/CD via **Vercel** (frontend) + **Oracle Cloud** (backend) with automated SSL/TLS -- transfered to Digital Ocean
+- Performed 100% SEO and Hit #1 Rank @google in market place accross all region 
+- Designed Decouple Architecture and System Design isolated Data layers , The Business Logic Layer , Presentation Layer
+  
 ### 🏗️ Full Stack Developer · [Al Kayan Construction & Engineering](https://www.alkayan-co.com) *(Jan 2022 – Present · Maadi)*
 > Sole engineer owning the full technical stack across multiple live production systems
-
+### ALKAYAN -- NOVA in Progress : performing High UX Designs and Architecuture 
 - Engineered a proprietary **Real Estate CMS** (live: [alkayan-co.com](https://www.alkayan-co.com)) — Laravel MVC, JWT auth, RBAC, full CRUD
 - Delivered **25% scalability improvement** and **40% faster DB query execution** through schema and query optimization
 - Cut security vulnerabilities by **75%** via OWASP practices, CSRF protection, and rigorous input validation
-- Managed end-to-end hosting, DNS, and SSL across **5+ concurrent client projects**
+- Managed end-to-end hosting, DNS, and SSL across  on Name Cheap and Godaddy **2+ concurrent client projects**
 
 ### 🎾 Junior WordPress Developer · Egypt Racket Sport *(Dec 2024 – Present · Remote)*
 - Built custom WordPress themes + WooCommerce integrations with payment gateways and customer dashboards
-- Improved site performance scores by **40%+** through caching, image optimization, and asset minification
+- Improved Product SEO scores by **80%** to reach up Amazon 
 
 ### 🖥️ IT Support & Systems Engineer · Padel Nuestro *(Sep 2022 – Mar 2025 · West Cairo)*
-- Resolved **50+ monthly network issues** across 200-person office; improved uptime from 95% → **99.5%** using Wireshark
+- Resolved **20+ monthly network issues** across 200-person office; improved uptime from 95% → **99.5%** using Wireshark
 - Designed AI Padel Coach assistant prototype with **15+ architecture diagrams**, cutting estimated build time by 30%
 
 ---
@@ -75,7 +77,7 @@ const ahmed: Engineer = {
 |:---:|:---|:---|:---:|
 | 🌍 | [**ET GCO Tours**](https://www-egypt-tour-guide.com) — Bilingual tourism PWA | `Next.js 15` `Node.js` `PostgreSQL` `Redis` `GSAP` | 🟢 Live |
 | 🏗️ | [**Al Kayan CMS**](https://www.alkayan-co.com) — Real estate platform | `Laravel` `MySQL` `JWT` `Docker` | 🟢 Live |
-| 🛒 | [**Zed Store**](https://zed-store.app.vercel.app) — E-commerce storefront | `React` `Node.js` `MongoDB` `Tailwind` | 🟢 Live |
+| 🛒 | [**Zed Store**](https://zed-store.app.vercel.app) — E-commerce store Vercel| `React` `Node.js` `MongoDB` `Tailwind` | 🟢 Live |
 | 🤖 | [**ts-ai-api**](https://github.com/Ahmed-Hamdy101/ts-ai-api) — Production AI REST API | `TypeScript` `Fastify` `OpenAI` `Vitest` `Docker` | 🟢 Live |
 | 🛡️ | [**Laravel Admin API**](https://github.com/Ahmed-Hamdy101/admin-api-laravel) — RBAC backend | `Laravel` `Passport` `MySQL` `Swagger` `Docker` | 🟢 Live |
 | 🏪 | [**Storefront API**](https://github.com/Ahmed-Hamdy101/nodejs-store-front) — 1000+ concurrent users | `Node.js` `Redis` `Stripe` `Jasmine` `AWS EC2` | 🟢 Live |
@@ -86,7 +88,7 @@ const ahmed: Engineer = {
 |:---:|:---|:---|:---|
 | 📊 | **Logger Suite ERP** — Multi-tenant SaaS ERP | `Next.js 15` `Laravel` `Redis` `AWS` `Docker` | SaaS |
 | 🎪 | **Evento** — ERP + E-commerce system | `Next.js 15` `Laravel` `MySQL` | SaaS |
-| 🚗 | **AutoFix** — AI car diagnostics platform | `Bun` `React` `OpenAI` `TypeScript` | AI · Multi-role |
+| 🚗 | **AutoFix** — Graduation project + Adding AI Feature | `Bun` `React` `OpenAI` `TypeScript` | AI · Multi-role |
 | 🎬 | **YouTube AI Generator** — AI video creation platform | `Next.js 15` `Prisma` `NextAuth` `Docker` `Caddy` | AI |
 | 📄 | **iQResume** — AI resume builder | `Next.js` `OpenAI` `TypeScript` | AI Tool |
 | 🤖 | **Lucy AI Agents** — LLM agent framework | `LangChain` `RAG` `pgvector` `TypeScript` | AI |
