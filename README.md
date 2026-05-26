@@ -24,7 +24,7 @@
 const ahmed: Engineer = {
   title:     "Mid Level Senior Full Stack Engineer & AI integration",
   location:  "6th of October, Giza, Egypt 🇪🇬",
-  experience: "3+ years · Production systems · AI integrations · Cloud deployments",
+  experience: "4+ years · Production systems · AI integrations · Cloud deployments",
   currently: [
     "Building ET GCO Tours — bilingual tourism PWA (Next.js 15 + Node.js)",
     "Shipping Logger Suite ERP — SaaS platform (Next.js 15 + Laravel + AWS)",
