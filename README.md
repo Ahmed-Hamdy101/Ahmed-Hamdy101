@@ -22,7 +22,7 @@
 
 ```ts
 const ahmed: Engineer = {
-  title:     "Mid Level Senior Full Stack Engineer & AI Builder",
+  title:     "Mid Level Senior Full Stack Engineer & AI integration",
   location:  "6th of October, Giza, Egypt 🇪🇬",
   experience: "3+ years · Production systems · AI integrations · Cloud deployments",
   currently: [
