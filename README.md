@@ -163,15 +163,22 @@ const ahmed: Engineer = {
 
 <div align="center">
 
-<!-- Option 1: github-profile-summary-cards — very reliable, different provider -->
+<!-- Awesome GitHub Stats Card (Your Level/Grade) -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?cardType=level&theme=tokyonight)](https://git.io/awesome-stats-card)
+
+<br/>
+
+<!-- Your profile summary cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-Hamdy101&theme=tokyonight" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-Hamdy101&theme=tokyonight" />
 
 <br/>
 
+<!-- Your commit streak card -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Hamdy101&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+
 
 ## `> cat activity.log`
 
