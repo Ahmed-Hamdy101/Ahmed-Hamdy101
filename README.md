@@ -78,7 +78,7 @@ const ahmed: Engineer = {
 |:---:|:---|:---|:---:|
 | 🌍 | [**ET GCO Tours**](https://www-egypt-tour-guide.com) — Bilingual tourism PWA | `Next.js 15` `Node.js` `PostgreSQL` `Redis` `GSAP` | 🟢 Live |
 | 🏗️ | [**Al Kayan CMS**](https://www.alkayan-co.com) — Real estate platform | `Laravel` `MySQL` `JWT` `Docker` | 🟢 Live |
-| 🛒 | [**Zed Store**](https://zed-store.app.vercel.app) — E-commerce store Vercel| `React` `Node.js` `MongoDB` `Tailwind` | 🟢 Live |
+| 🛒 | [**Zed Store**](https://zedstore-site.vercel.app/) — E-commerce store Vercel| `React` `Node.js` `MongoDB` `Tailwind` | 🟢 Live |
 | 🤖 | [**ts-ai-api**](https://github.com/Ahmed-Hamdy101/ts-ai-api) — Production AI REST API | `TypeScript` `Fastify` `OpenAI` `Vitest` `Docker` | 🟢 Live |
 | 🛡️ | [**Laravel Admin API**](https://github.com/Ahmed-Hamdy101/admin-api-laravel) — RBAC backend | `Laravel` `Passport` `MySQL` `Swagger` `Docker` | 🟢 Live |
 | 🏪 | [**Storefront API**](https://github.com/Ahmed-Hamdy101/nodejs-store-front) — 1000+ concurrent users | `Node.js` `Redis` `Stripe` `Jasmine` `AWS EC2` | 🟢 Live |
