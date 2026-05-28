@@ -41,7 +41,7 @@ const ahmed: Engineer = {
 
 ## `> experience --all`
 
-### 🌍 Full Stack Developer · [ET GCO Tours](https://www-egypt-tour-guide.com) *(Dec 2025 – Present · Remote)*
+### 🌍 Full Stack Developer · [ET GCO Tours](https://www.egypt-tour-guide.com/) *(Dec 2025 – Present · Remote)*
 > Bilingual tourism PWA serving international travelers — built and branded from scratch
 
 - Architected full-stack bilingual (GE/EN) PWA with **Next.js 15 App Router + Node.js/Express** backend, TypeScript end-to-end
