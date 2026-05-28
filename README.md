@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&width=950&height=110&lines=Hola!+My+Name+is+Ahmed+Hamdy+%F0%9F%91%8B;MID+LEVEL+SENIOR+Full+Stack+Engineer+%7C+AI+Integration;Laravel+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&width=950&height=110&lines=Hola!+My+Name+is+Ahmed+Hamdy+%F0%9F%91%8B;Mid+Level+Senior+Full+Stack+Engineer+%7C+AI+Integration;Laravel+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript+%C2%B7+AWS)](https://git.io/typing-svg)
 
 <br/>
 
@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/ahmed-hamdy-AH"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://drive.google.com/file/d/1dKb600XSfhWBALBDznnVnax0NjGE4UiS/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 <a href="https://www.behance.net/exfove"><img src="https://img.shields.io/badge/Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-<a href="https://ahmedhamdy101.is-a.dev/"><img src="https://img.shields.io/badge/My-Portfolio-1359FF?style=for-the-badge&log=website&logoColor=red" /></a>
+<a href="https://ahmedhamdy101.is-a.dev/"><img src="https://img.shields.io/badge/My-Portfolio-1359FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -23,8 +23,8 @@
 
 ```ts
 const ahmed: Engineer = {
-  title:     "Mid Level Senior Full Stack Engineer & AI integration",
-  location:  "6th of October, Giza, Egypt 🇪🇬",
+  title:      "Mid Lev. Senior Full Stack Engineer & AI Integration",
+  location:   "6th of October, Giza, Egypt 🇪🇬",
   experience: "4+ years · Production systems · AI integrations · Cloud deployments",
   currently: [
     "Building ET GCO Tours — bilingual tourism PWA (Next.js 15 + Node.js)",
@@ -163,19 +163,14 @@ const ahmed: Engineer = {
 
 <div align="center">
 
-<!-- Awesome GitHub Stats Card (Your Level/Grade) -->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?cardType=level&theme=tokyonight)](https://git.io/awesome-stats-card)
-
-<br/>
-
 <!-- Your profile summary cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-Hamdy101&theme=tokyonight" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?cardType=level&theme=tokyonight)](https://git.io/awesome-stats-card)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-Hamdy101&theme=tokyonight" />
 
-<br/>
-
-<!-- Your commit streak card -->
+<!-- Awesome GitHub Stats Card (Your Level/Grade) -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Hamdy101&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br/><br/>
 
 </div>
 
