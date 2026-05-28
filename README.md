@@ -76,7 +76,7 @@ const ahmed: Engineer = {
 
 | &nbsp; | Project | Stack | Status |
 |:---:|:---|:---|:---:|
-| 🌍 | [**ET GCO Tours**](https://www-egypt-tour-guide.com) — Bilingual tourism PWA | `Next.js 15` `Node.js` `PostgreSQL` `Redis` `GSAP` | 🟢 Live |
+| 🌍 | [**ET GCO Tours**](https://www.egypt-tour-guide.com/) — Bilingual tourism PWA | `Next.js 15` `Node.js` `PostgreSQL` `Redis` `GSAP` | 🟢 Live |
 | 🏗️ | [**Al Kayan CMS**](https://www.alkayan-co.com) — Real estate platform | `Laravel` `MySQL` `JWT` `Docker` | 🟢 Live |
 | 🛒 | [**Zed Store**](https://zedstore-site.vercel.app/) — E-commerce store Vercel| `React` `Node.js` `MongoDB` `Tailwind` | 🟢 Live |
 | 🤖 | [**ts-ai-api**](https://github.com/Ahmed-Hamdy101/ts-ai-api) — Production AI REST API | `TypeScript` `Fastify` `OpenAI` `Vitest` `Docker` | 🟢 Live |
