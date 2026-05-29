@@ -29,7 +29,7 @@ const ahmed: Engineer = {
   currently: [
     "Building ET GCO Tours — bilingual tourism PWA (Next.js 15 + Node.js)",
     "Shipping Logger Suite ERP — SaaS platform (Next.js 15 + Laravel + AWS)",
-    "Integrate AI tools: iQResume · Lucy AI Agents · YouTube AI Generator",
+    "Integrate AI tools: iQResume(DEV) · Lucy AI Agents (DEV)· YouTube AI Generator (DEV)",
     "3D Warrior — real-time 3D web experience",
   ],
   openTo:    "Remote roles · Interesting problems · Collaboration",
