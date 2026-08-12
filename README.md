@@ -167,8 +167,6 @@ const ahmed: Engineer = {
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?cardType=level&theme=tokyonight)](https://git.io/awesome-stats-card)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-Hamdy101&theme=tokyonight" />
 
-<!-- Awesome GitHub Stats Card (Your Level/Grade) -->
-[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Hamdy101&theme=tokyonight&hide_border=true&show_icons=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 
