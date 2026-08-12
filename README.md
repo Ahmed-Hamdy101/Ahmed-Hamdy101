@@ -168,7 +168,7 @@ const ahmed: Engineer = {
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-Hamdy101&theme=tokyonight" />
 
 <!-- Awesome GitHub Stats Card (Your Level/Grade) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Hamdy101&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Hamdy101&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
 
