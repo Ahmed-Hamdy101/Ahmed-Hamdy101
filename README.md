@@ -83,21 +83,6 @@ const ahmed: Engineer = {
 | 🛡️ | [**Laravel Admin API**](https://github.com/Ahmed-Hamdy101/admin-api-laravel) — RBAC backend | `Laravel` `Passport` `MySQL` `Swagger` `Docker` | 🟢 Live |
 | 🏪 | [**Storefront API**](https://github.com/Ahmed-Hamdy101/nodejs-store-front) — 1000+ concurrent users | `Node.js` `Redis` `Stripe` `Jasmine` `AWS EC2` | 🟢 Live |
 
-### 🔨 In Active Development
-
-| &nbsp; | Project | Stack | Type |
-|:---:|:---|:---|:---|
-| 📊 | **Logger Suite ERP** — Multi-tenant SaaS ERP | `Next.js 15` `Laravel` `Redis` `AWS` `Docker` | SaaS |
-| 🎪 | **Evento** — ERP + E-commerce system | `Next.js 15` `Laravel` `MySQL` | SaaS |
-| 🚗 | **AutoFix** — Graduation project + Adding AI Feature | `Bun` `React` `OpenAI` `TypeScript` | AI · Multi-role |
-| 🎬 | **YouTube AI Generator** — AI video creation platform | `Next.js 15` `Prisma` `NextAuth` `Docker` `Caddy` | AI |
-| 📄 | **iQResume** — AI resume builder | `Next.js` `OpenAI` `TypeScript` | AI Tool |
-| 🤖 | **Lucy AI Agents** — LLM agent framework | `LangChain` `RAG` `pgvector` `TypeScript` | AI |
-| 🗺️ | **GIS Web Map** — Graduation project | `Node.js` `PostgreSQL` `Leaflet.js` | GIS |
-| 🏫 | **School Alumni App** — Graduation project | `Next.js` `Node.js` | Social |
-| 🎮 | **3D Warrior** — Real-time 3D web experience | `Three.js` `WebGL` `TypeScript` | Creative |
-
----
 
 ## `> skills --full`
 
@@ -129,13 +114,11 @@ const ahmed: Engineer = {
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-**AI / ML**
+**AI / Integration**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+
 
 **Databases & ORMs**
 
