@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/LinkedIn2.png" width="900" alt="Ahmed Hamdy" />
+<img src="./images/background-hero.png" width="900" alt="Ahmed Hamdy" />
 
 <br/>
 
