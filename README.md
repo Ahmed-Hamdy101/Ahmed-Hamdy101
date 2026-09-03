@@ -70,7 +70,7 @@ Currently open to remote Full Stack, Backend, and AI Integration opportunities.
 - Documentation that helps people ship
 - Open-source projects that solve real problems
 
-## Featured Projects
+##  Projects
 
 | Project | Stack | Description |
 | --- | --- | --- |
