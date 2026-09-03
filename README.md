@@ -75,7 +75,7 @@ Currently open to remote Full Stack, Backend, and AI Integration opportunities.
 | Project | Stack | Description | Status |
 | --- | --- | --- | --- |
 | [ET GCO Tours](https://www.egypt-tour-guide.com/) | Bilingual tourism platform with booking and real-time inventory | Next.js, Express, TypeScript, PostgreSQL, Redis | [View Demo](https://github.com/Ahmed-Hamdy101/et-gco-tours-showcase) |
-| [Al Kayan Construction(Legacy)](https://www.alkayan-co.com) | Company platform and admin CMS with role-based access | PHP, MySQL, JWT, Docker |
+| [Al Kayan Construction(Legacy)](https://www.alkayan-co.com) | Company platform and admin CMS with role-based access - ⚠ Revoked | PHP, MySQL|
 | [Al Kayan Nova](https://ahmedhamdy101.is-a.dev/projects/alkayan-nova) | Interactive construction platform with 3D experiences | OOP , Shared Layer UI , SEO Optimazation ,fixed broken cache-busting, Security Improvment , PHPUnit suite , PHP MVC, Three.js, GSAP | [View Demo](https://github.com/Ahmed-Hamdy101/alkayan-nova-ux-clean) |
 | [Al Kayan ERP SYSTEM](#) | ERP Stock – Data model, APIs, business logic , ERP Stock – Admin UI, dashboard, reports | ___ |
 | [Logger Suite SAAS ](#) | Multi-tenant SaaS ERP combining Next.js 15 frontend with Laravel REST backend. Admin/Editor/Guest RBAC, Redis caching, AWS EC2/S3. | Laravel, NextJS, KafKa, GSAP ,TailwindCSS | [View Demo](https://ahmedhamdy101.is-a.dev/projects/logger-suite-erp)|
