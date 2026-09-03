@@ -147,9 +147,25 @@ Currently open to remote Full Stack, Backend, and AI Integration opportunities.
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
 [![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
 
+</td>
+<td>
+
+[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-Hamdy101&theme=github_dark)](https://github.com/Ahmed-Hamdy101)
+
+</td>
+</tr>
+</table>
+
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Hamdy101&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+
 
 </div>
 
