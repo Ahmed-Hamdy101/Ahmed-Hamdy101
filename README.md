@@ -47,7 +47,7 @@ Open to remote Full Stack / Backend / AI Integration roles.
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
 | [**ET GCO Tours**](https://www.egypt-tour-guide.com/) | High-performance bilingual tourism PWA with real-time inventory & booking | Next.js 15, Express, TypeScript, PostgreSQL, Drizzle, Redis, GSAP | 🟢 Live |
-| [**Al Kayan Construction**](https://www.alkayan-co.com) | Official company platform + Admin CMS with RBAC | Laravel, MySQL, JWT, Docker | 🟢 Live |
+| [**Al Kayan Construction**](https://www.alkayan-co.com) | Official company platform + Admin CMS with RBAC | PHP, MySQL, JWT, Docker | 🟢 Live |
 | [**Al Kayan Nova v2.0**](https://ahmedhamdy101.is-a.dev/projects/alkayan-nova) | Modern construction site with 3D WebGL hero | Custom PHP MVC, Three.js, GSAP | 🟢 Live |
 | [**ts-ai-api**](https://github.com/Ahmed-Hamdy101/ts-ai-api) | Production-ready Fastify REST API with OpenAI | TypeScript, Fastify, OpenAI, Docker | 🟢 Live |
 | [**Laravel REST API**](https://github.com/Ahmed-Hamdy101/dropship-rest-api) | Admin backend with Passport OAuth2 + RBAC | Laravel, Passport, JWT, Swagger | 🟢 Live |
