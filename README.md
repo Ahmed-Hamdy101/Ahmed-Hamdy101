@@ -49,9 +49,9 @@
 
 ---
 
-I am a Full Stack Engineer with 5+ years of experience designing, building, and deploying production applications.
 
-My focus is on:
+
+## focus on 🎯
 
 - Scalable full stack applications
 - Type-safe APIs and backend architecture
