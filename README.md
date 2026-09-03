@@ -5,7 +5,7 @@
 <br/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&width=1100&height=200&lines=Hola%2C+I'm+Ahmed+Hamdy;Full+Stack+Engineer;PHP+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Go;ERP+%C2%B7+System+Design+%C2%B7+Clean+Architecture+%C2%B7+AWS+%C2%B7+AI+Integration+%C2%B7+CI/CD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&width=1100&height=130&lines=Hola%2C+I'm+Ahmed+Hamdy;Full+Stack+Engineer;PHP+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Go;ERP+%C2%B7+System+Design+%C2%B7+Clean+Architecture+%C2%B7+AWS+%C2%B7+AI+Integration+%C2%B7+CI/CD)](https://git.io/typing-svg)
 
 <br/>
 
