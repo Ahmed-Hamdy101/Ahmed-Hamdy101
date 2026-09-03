@@ -49,20 +49,55 @@
 
 ---
 
+I am a Full Stack Engineer with 5+ years of experience designing, building, and deploying production applications.
+
+My focus is on:
+
+- Scalable full stack applications
+- Type-safe APIs and backend architecture
+- AI-powered features and RAG pipelines
+- Performance, security, and maintainable code
+- SaaS platforms and business automation
+
+Currently open to remote Full Stack, Backend, and AI Integration opportunities.
+
+
+## What I Care About
+
+- Clear architecture over unnecessary complexity
+- Fast interfaces with measurable performance
+- Secure APIs with strong validation
+- Documentation that helps people ship
+- Open-source projects that solve real problems
+
 ## Featured Projects
 
 | Project | Stack | Description |
 | --- | --- | --- |
-| [**ts-ai-api**](https://github.com/Ahmed-Hamdy101/ts-ai-api) | TypeScript · Fastify · OpenAI · Vitest | Production-ready AI REST API with chat, summarization, testing, and Docker |
-| [**laravel-admin-api**](https://github.com/Ahmed-Hamdy101/admin-api-laravel) | Laravel · Passport · MySQL · Docker | Admin backend with RBAC, JWT authentication, product management, order management, and CSV export |
-
+| [ET GCO Tours](https://www.egypt-tour-guide.com/) | Bilingual tourism platform with booking and real-time inventory | Next.js, Express, TypeScript, PostgreSQL, Redis |
+| [Al Kayan Construction(Legacy)](https://www.alkayan-co.com) | Company platform and admin CMS with role-based access | PHP, MySQL, JWT, Docker |
+| [Al Kayan Nova](https://ahmedhamdy101.is-a.dev/projects/alkayan-nova) | Interactive construction platform with 3D experiences | OOP , Shared Layer UI , SEO Optimazation ,fixed broken cache-busting, Security Improvment , PHPUnit suite , PHP MVC, Three.js, GSAP |
+| [Al Kayan ERP SYSTEM](#) | ERP Stock – Data model, APIs, business logic , ERP Stock – Admin UI, dashboard, reports |
+| [Logger Suite SAAS ](#) | Multi-tenant SaaS ERP combining Next.js 15 frontend with Laravel REST backend. Admin/Editor/Guest RBAC, Redis caching, AWS EC2/S3. | Laravel, NextJS, KafKa, GSAP ,TailwindCSS |
+| [ts-ai-api](https://github.com/Ahmed-Hamdy101/ts-ai-api) | Fastify API with OpenAI integration | TypeScript, Fastify, OpenAI, Docker |
+| [Laravel REST API](https://github.com/Ahmed-Hamdy101/laravel-rest-api) | Admin API with OAuth2, RBAC, and Swagger documentation | Laravel, Passport, JWT |
+| [Node.js Storefront API](https://github.com/Ahmed-Hamdy101/node-js-store-front-api) | Tested e-commerce REST API | Node.js, Express, PostgreSQL, Jasmine |
+| [Auto Sercice Demo](https://github.com/Ahmed-Hamdy101/node-js-store-front-api) | Business software for managing vehicle repair requests, technicians, spare parts, orders, and payments in one workspace — role-based dashboards for customers, technicians, and admins. |Bun, Next.js 16, React 19, TypeScript 5 Prisma 6, SQLite ,Tailwind CSS 4, shadcn/ui, Radix UI,React Hook Form, Zod TanStack Query, Zustand, date-fns Sharp, Framer Motion, DND Kit,Caddy |
+| [GIS DASHBOARD MAP ](https://github.com/Ahmed-Hamdy101/node-js-store-front-api) | Multilingual (EN/AR/FR) GIS dashboard for exploring buildings across the Sinai region on an interactive Cesium 3D terrain map, with point-to-point distance & travel-time calculation. |Nodejs/Typescript Next.js ,Express , Prisma ,PostgreSQL , CesiumJS , JWT|
 ---
 
-## Skills
 
-| Frontend | Backend | DevOps |
-| :---: | :---: | :---: |
-| ![Frontend](./images/ft_end.png) | ![Backend](./images/bk_end.png) | ![DevOps](./images/dv_ops.png) |
+## Planning Projects
+
+| Project | Status |
+| --- | --- |
+| [AI 3D Warrior Model Generator](#) | 🔴| 
+| [AI Youtube Video Generator](#) | 🔴|
+| [Jaxi - AI Agent ](#) | 🔴| 
+---
+
+
+## Skills
 
 ### Languages & Frameworks
 
@@ -75,15 +110,34 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-### Tools & Infrastructure
+### Core Concepts
+![Data Structures](https://img.shields.io/badge/Data%20Structures-3776AB?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
+![N%2B1 Problems](https://img.shields.io/badge/N%2B1%20Problems-DC2626?style=for-the-badge)
+![Monolith Architecture](https://img.shields.io/badge/Monolith%20Architecture-6B7280?style=for-the-badge)
+![Decoupled Architecture](https://img.shields.io/badge/Decoupled%20Architecture-059669?style=for-the-badge)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+![LLM Integrations](https://img.shields.io/badge/LLM%20Integrations-7C3AED?style=for-the-badge)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0891B2?style=for-the-badge)
+
+### Engineering
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-9333EA?style=for-the-badge)
+![Testing](https://img.shields.io/badge/Testing-16A34A?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Performance-EAB308?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-B91C1C?style=for-the-badge)
 
 ---
 
