@@ -1,149 +1,110 @@
 <div align="center">
 
-<img src="./images/background-hero.png" width="900" alt="Ahmed Hamdy" />
+<img src="./images/background-hero.png" width="900" alt="Ahmed Hamdy - Full Stack Engineer" />
 
-<br/>
+# Ahmed Hamdy
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&width=1100&height=130&lines=Hola%2C+I'm+Ahmed+Hamdy;Full+Stack+Engineer;PHP+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Go;ERP+%C2%B7+System+Design+%C2%B7+Clean+Architecture+%C2%B7+AWS+%C2%B7+AI+Integration+%C2%B7+CI%2FCD)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&width=1100&height=130&lines=Hola%2C+I'm+Ahmed+Hamdy;Full+Stack+Engineer;PHP+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Go;ERP+%C2%B7+System+Design+%C2%B7+Clean+Architecture+%C2%B7+AWS+%C2%B7+AI+Integration+%C2%B7+CI/CD)](https://git.io/typing-svg)
+### Full Stack Engineer | Platform Architecture | AI Systems
 
-<br/>
+> I turn complex business workflows into secure, maintainable software that teams can use every day.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Hamdy101&label=Profile%20Views&color=00D9FF&style=flat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmedhamdy101.is--a.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedhamdy101.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hamdy-AH)
+[![Email](https://img.shields.io/badge/Email-Contact-FF0060?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhamdy.mh95@gmail.com)
+[![CV](https://img.shields.io/badge/CV-View-111827?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jy5eS4bNU-VsteKhQXdZxcYpLqxZf7ku/view?usp=sharing)
 
 </div>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&label=Text%20Me&labelColor=25D366)](https://wa.me/201141640812)
-[![Email](https://img.shields.io/badge/Gmail-FF0060?style=flat&logo=gmail&logoColor=white&label=ahmedhamdy.mh95@gmail.com&labelColor=FF0060)](mailto:ahmedhamdy.mh95@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&label=Hire%20Me&labelColor=0A66C2)](https://www.linkedin.com/in/ahmed-hamdy-AH)
-[![CV](https://img.shields.io/badge/Google%20Drive-000000?style=flat&logo=googledrive&logoColor=20C20E&label=CV&labelColor=000000)](https://drive.google.com/file/d/1jy5eS4bNU-VsteKhQXdZxcYpLqxZf7ku/view?usp=sharing)
-<a href="https://ahmedhamdy101.is-a.dev">
-  <img
-    src="https://ahmedhamdy101.is-a.dev/icon.svg"
-    width="22"
-    height="22"
-    alt="Portfolio"
-  />
-  <img
-    src="https://img.shields.io/badge/Portfolio-Ahmed%20Hamdy-111827?style=for-the-badge"
-    height="22"
-    alt="Ahmed Hamdy Portfolio"
-  />
-</a>
-</div>
+## About me
 
----
+I am a Full Stack Engineer based in Cairo, Egypt. I work across product strategy, backend architecture, cloud delivery, and AI integration, with a focus on turning ambiguous business problems into reliable systems.
 
-## About Me
+- Own architecture and delivery for full stack systems at **Al Kayan Construction & Engineering**
+- Define API boundaries, data models, authorization, integrations, and operational standards
+- Build AI-powered services with OpenAI, Fastify, and TypeScript
+- Drive production quality through testing, observability, security, and performance work
 
-<img align="right" src="./images/tech company-rafiki.svg" width="280" alt="Technology illustration" />
-
-**Full Stack Engineer** focused on Laravel, Node.js, TypeScript, and AI integrations.
-
-- 🔭 Working at **Al Kayan Construction & Engineering** as a Full Stack Developer
-- 🤖 Building AI-powered APIs with OpenAI, Fastify, and TypeScript
-- ⚙️ Specializing in **Laravel REST APIs**, **Node.js**, **Bun**, and **Docker**
-- 🌱 Currently improving my skills in system design and distributed systems
-- 💬 Ask me anything about web development, APIs, or backend architecture
-- 📍 Cairo, Egypt
-
----
-
-
-
-## focus on 🎯
-
-- Scalable full stack applications
-- Type-safe APIs and backend architecture
-- AI-powered features and RAG pipelines
-- Performance, security, and maintainable code
-- SaaS platforms and business automation
-
-Currently open to remote Full Stack, Backend, and AI Integration opportunities.
-
-
-## What I Care About
-
-- Clear architecture over unnecessary complexity
-- Fast interfaces with measurable performance
-- Secure APIs with strong validation
-- Documentation that helps people ship
-- Open-source projects that solve real problems
-
-##  Projects
-
-| Project | Stack | Description | Status |
-| --- | --- | --- | --- |
-| [ET GCO Tours](https://www.egypt-tour-guide.com/) | Bilingual tourism platform with booking and real-time inventory | Next.js, Express, TypeScript, PostgreSQL, Redis | [View Demo](https://github.com/Ahmed-Hamdy101/et-gco-tours-showcase) |
-| [Al Kayan Construction(Legacy)](https://www.alkayan-co.com) | Company platform and admin CMS with role-based access  | PHP, MySQL|
-| [Al Kayan Nova](https://ahmedhamdy101.is-a.dev/projects/alkayan-nova) | Interactive construction platform with 3D experiences | OOP , Shared Layer UI , SEO Optimazation ,fixed broken cache-busting, Security Improvment , PHPUnit suite , PHP MVC, Three.js, GSAP | [View Demo](https://github.com/Ahmed-Hamdy101/alkayan-nova-ux-clean) |
-| [Al Kayan ERP SYSTEM](#) | ERP Stock – Data model, APIs, business logic , ERP Stock – Admin UI, dashboard, reports | ___ |
-| [Logger Suite SAAS ](#) | Multi-tenant SaaS ERP combining Next.js 15 frontend with Laravel REST backend. Admin/Editor/Guest RBAC, Redis caching, AWS EC2/S3. | Laravel, NextJS, KafKa, GSAP ,TailwindCSS | [View Demo](https://ahmedhamdy101.is-a.dev/projects/logger-suite-erp)|
-| [ts-ai-api](https://github.com/Ahmed-Hamdy101/ts-ai-api) | Fastify API with OpenAI integration | TypeScript, Fastify, OpenAI, Docker | [View Demo](https://github.com/Ahmed-Hamdy101/ts-ai-api) |
-| [Laravel REST API](https://github.com/Ahmed-Hamdy101/laravel-rest-api) | Admin API with OAuth2, RBAC, and Swagger documentation | Laravel, Passport, JWT | [View Project](https://github.com/Ahmed-Hamdy101/laravel-rest-api) |
-| [node-js-store-front-api](https://github.com/Ahmed-Hamdy101/node-js-store-front-api) | Tested e-commerce REST API | Node.js, Express, PostgreSQL, Jasmine | [ View Project ](https://github.com/Ahmed-Hamdy101/nodejs-store-front-api) |
-| [autofix-service-platform-demo](https://github.com/Ahmed-Hamdy101/node-js-store-front-api) | Business software for managing vehicle repair requests, technicians, spare parts, orders, and payments in one workspace — role-based dashboards for customers, technicians, and admins. |Bun, Next.js 16, React 19, TypeScript 5 Prisma 6, SQLite ,Tailwind CSS 4, shadcn/ui, Radix UI,React Hook Form, Zod TanStack Query, Zustand, date-fns Sharp, Framer Motion, DND Kit,Caddy | [View Project](https://github.com/Ahmed-Hamdy101/autofix-service-platform-demo)
-| [gis-dashboard](https://github.com/Ahmed-Hamdy101/node-js-store-front-api) | Multilingual (EN/AR/FR) GIS dashboard for exploring buildings across the Sinai region on an interactive Cesium 3D terrain map, with point-to-point distance & travel-time calculation. |Nodejs/Typescript Next.js ,Express , Prisma ,PostgreSQL , CesiumJS , JWT| [View Project](https://github.com/Ahmed-Hamdy101/autofix-service-platform-demo)
----
-
-
-## Planning Projects
-
-| Project | Status |
+| | |
 | --- | --- |
-| [AI 3D Warrior Model Generator](#) | 🔴| 
-| [AI Youtube Video Generator](#) | 🔴|
-| [Jaxi - AI Agent ](#) | 🔴| 
-| [Money Wise](#) | 🔴| 
+| Location | Cairo, Egypt |
+| Primary focus | Platform architecture, backend systems, AI integration |
+| Open to | Staff-level scope, senior ownership, and technical leadership |
+| Portfolio | [ahmedhamdy101.is-a.dev](https://ahmedhamdy101.is-a.dev) |
 
----
+## Scope of ownership
 
+- **Architecture:** Translate product constraints into simple, durable system designs
+- **Platforms:** Build SaaS, ERP, workflow, reporting, and automation systems
+- **Backend:** Establish API contracts, data models, authorization, integrations, and service boundaries
+- **AI systems:** Move AI features from prototypes to observable, maintainable production services
+- **Engineering execution:** Improve standards, documentation, testing, deployment, and team velocity
 
-## Skills
+## Selected projects
 
-### Languages & Frameworks
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| [ET GCO Tours](https://www.egypt-tour-guide.com/) | Bilingual tourism platform with bookings and real-time inventory | Next.js, Express, TypeScript, PostgreSQL, Redis | [Repository](https://github.com/Ahmed-Hamdy101/et-gco-tours-showcase) |
+| [Al Kayan Nova](https://ahmedhamdy101.is-a.dev/projects/alkayan-nova) | Construction platform with 3D experiences, SEO, security improvements, and automated tests | PHP MVC, Three.js, GSAP, PHPUnit | [Repository](https://github.com/Ahmed-Hamdy101/alkayan-nova-ux-clean) |
+| Logger Suite SaaS | Multi-tenant ERP with RBAC, caching, and cloud deployment | Laravel, Next.js, Redis, AWS, Tailwind CSS | [Case study](https://ahmedhamdy101.is-a.dev/projects/logger-suite-erp) |
+| [TypeScript AI API](https://github.com/Ahmed-Hamdy101/ts-ai-api) | Fastify API with OpenAI integration | TypeScript, Fastify, OpenAI, Docker | [Repository](https://github.com/Ahmed-Hamdy101/ts-ai-api) |
+| [Laravel REST API](https://github.com/Ahmed-Hamdy101/laravel-rest-api) | Admin API with OAuth2, RBAC, order workflows, and API documentation | Laravel, Passport, PHP, MySQL | [Repository](https://github.com/Ahmed-Hamdy101/laravel-rest-api) |
+| [Node.js Storefront API](https://github.com/Ahmed-Hamdy101/nodejs-store-front-api) | Tested e-commerce REST API | Node.js, Express, PostgreSQL, Jasmine | [Repository](https://github.com/Ahmed-Hamdy101/nodejs-store-front-api) |
+| [AutoFix Service Platform](https://github.com/Ahmed-Hamdy101/autofix-service-platform-demo) | Vehicle repair operations platform for customers, technicians, and administrators | Bun, Next.js, React, TypeScript, Prisma, SQLite | [Repository](https://github.com/Ahmed-Hamdy101/autofix-service-platform-demo) |
+| [GIS Dashboard](https://github.com/Ahmed-Hamdy101/gis-dashboard) | Multilingual 3D GIS dashboard for exploring buildings and calculating routes | Next.js, Node.js, Express, Prisma, PostgreSQL, CesiumJS | [Repository](https://github.com/Ahmed-Hamdy101/gis-dashboard) |
+
+## Core stack
+
+I use tools pragmatically. The technologies below support the systems and outcomes described above; they are not a checklist.
+
+### Languages and frameworks
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-### Core Concepts
-![Data Structures](https://img.shields.io/badge/Data%20Structures-3776AB?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge)
-![N%2B1 Problems](https://img.shields.io/badge/N%2B1%20Problems-DC2626?style=for-the-badge)
-![Monolith Architecture](https://img.shields.io/badge/Monolith%20Architecture-6B7280?style=for-the-badge)
-![Decoupled Architecture](https://img.shields.io/badge/Decoupled%20Architecture-059669?style=for-the-badge)
+### Backend and architecture
 
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=flat)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat)
+![RBAC](https://img.shields.io/badge/RBAC-9333EA?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2563EB?style=flat)
+![Testing](https://img.shields.io/badge/Testing-16A34A?style=flat)
 
-### AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
-![LLM Integrations](https://img.shields.io/badge/LLM%20Integrations-7C3AED?style=for-the-badge)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-0891B2?style=for-the-badge)
+### Cloud and data
 
-### Engineering
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge)
-![OAuth2](https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
-![RBAC](https://img.shields.io/badge/RBAC-9333EA?style=for-the-badge)
-![Testing](https://img.shields.io/badge/Testing-16A34A?style=for-the-badge)
-![Performance](https://img.shields.io/badge/Performance-EAB308?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-B91C1C?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
+### AI and 3D
 
-## GitHub Activity
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0891B2?style=flat)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![CesiumJS](https://img.shields.io/badge/CesiumJS-6CADDF?style=flat&logo=cesium&logoColor=white)
+
+## Staff-level engineering
+
+- **Think in systems:** make boundaries, dependencies, failure modes, and trade-offs explicit.
+- **Raise the quality bar:** make security, validation, testing, observability, and documentation part of delivery.
+- **Connect technology to outcomes:** optimize for customer value, operational reliability, and sustainable delivery speed.
+- **Create leverage:** establish patterns and interfaces that help other engineers move independently.
+- **Stay pragmatic:** choose the simplest design that can evolve with the product.
+
+## GitHub activity
 
 <div align="center">
 
@@ -162,35 +123,12 @@ Currently open to remote Full Stack, Backend, and AI Integration opportunities.
 </tr>
 </table>
 
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ahmed-Hamdy101&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
-
 </div>
 
----
+## Let's work together
 
-## Community
+I am interested in roles and collaborations where I can own complex technical problems, shape architecture, and help teams deliver reliable products.
 
-### Team
-
-| Developer | Role | Profile |
-| --- | --- | --- |
-| Mina | Node.js & Python Backend Developer | [![GitHub](https://img.shields.io/badge/MinaSameh1-black?style=flat&logo=github&logoColor=white)](https://github.com/MinaSameh1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mina-sameh-258992216/) |
-
-### Chat
-
-[![Discord](https://img.shields.io/badge/Discord-Panda%20$~-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/jaCuAPQUA)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Panda%20Shell-25D366?style=flat&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ch3swY4hTuk70PjOulGYdj)
-[![WhatsApp Community](https://img.shields.io/badge/WhatsApp-Community-25D366?style=flat&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/J3poLyl1J3iBniqRo6wUxI)
-
----
-
-<div align="center">
-
-### Let's build something useful.
-
-[![Email Ahmed](https://img.shields.io/badge/Contact%20Me-FF0060?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhamdy.mh95@gmail.com)
-
-</div>
+[Email me](mailto:ahmedhamdy.mh95@gmail.com) | [Connect on LinkedIn](https://www.linkedin.com/in/ahmed-hamdy-AH) | [Schedule a call](https://ahmedhamdy101.is-a.dev/schedule) | [View my portfolio](https://ahmedhamdy101.is-a.dev)
