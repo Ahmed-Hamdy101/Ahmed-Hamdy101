@@ -109,7 +109,7 @@ Currently learning: NestJS and Go.
 </td>
 <td>
 
-[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-Hamdy101&theme=github_dark)](https://github.com/Ahmed-Hamdy101)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&layout=compact&langs_count=8&exclude_repo=repo-to-ignore&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
