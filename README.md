@@ -22,9 +22,9 @@
 Full Stack Engineer based in Giza, Egypt, with 5+ years shipping production web platforms. I work across backend architecture, cloud delivery, and AI integration.
 
 - Own a production tour-booking platform end-to-end at **ET GCO Tours** (Next.js 15, Express, PostgreSQL, Redis)
-- Lead the rebuild and security hardening of the **Al Kayan Construction & Engineering** platform
+- Lead the rebuild and security hardening of the **Al Kayan Construction & Engineering** platform, plus an internal ERP stock system reachable only over a private WireGuard VPN
 - Design API boundaries, data models, authorization, and integrations
-- Build AI-powered services with OpenAI, Fastify, and TypeScript
+- Build AI-powered services with OpenAI, Fastify, and TypeScript, and local-first AI tools with Python and Ollama
 
 | | |
 | --- | --- |
@@ -35,19 +35,43 @@ Full Stack Engineer based in Giza, Egypt, with 5+ years shipping production web 
 
 ## Selected projects
 
-Every project has a write-up on my portfolio covering the problem, architecture, and decisions.
+Projects with a case-study link have a write-up on my portfolio covering the problem, architecture, and decisions.
 
-| Project | What it is | Stack | Links |
-| --- | --- | --- | --- |
-| **Egypt Tour Guide** (ET GCO Tours) | Bilingual tourism PWA with bookings, real-time inventory, and Redis caching | Next.js 15, Express, TypeScript, PostgreSQL, Drizzle, Redis | [Live](https://www.egypt-tour-guide.com/) · [Source](https://github.com/Ahmed-Hamdy101/et-gco-tours-showcase) · [Case study](https://ahmedhamdy101.is-a.dev/projects/egypt-tour-guide) |
-| **Alkayan Construction Nova** | Construction company site on a custom PHP MVC framework with 3D cards and a WebGL hero | PHP, Custom MVC, Three.js, GSAP, PHPUnit | [Live](https://www.alkayan-co.com) · [Source](https://github.com/Ahmed-Hamdy101/alkayan-nova-showcase) · [Case study](https://ahmedhamdy101.is-a.dev/projects/alkayan-nova) |
-| **Logger Suite ERP** | Multi-tenant SaaS ERP with RBAC and caching | Next.js 15, Laravel, MySQL, Redis, JWT | [Case study](https://ahmedhamdy101.is-a.dev/projects/logger-suite-erp) |
-| **TypeScript AI API** | Fastify REST API exposing OpenAI-powered assistant features through typed endpoints | TypeScript, Fastify, OpenAI, Zod, Docker | [Source](https://github.com/Ahmed-Hamdy101/ts-ai-api) · [Case study](https://ahmedhamdy101.is-a.dev/projects/typescript-ai-api) |
-| **Admin REST API** | Laravel API for users, orders, and admin operations with OAuth2 and RBAC | Laravel, Passport, PHP, MySQL | [Source](https://github.com/Ahmed-Hamdy101/laravel-rest-api) · [Case study](https://ahmedhamdy101.is-a.dev/projects/laravel-admin-rest-api) |
-| **AutoFix Car Service** | Vehicle repair platform for customers, technicians, and admins with role-based dashboards | Bun, Next.js 16, React 19, TypeScript, Prisma | [Source](https://github.com/Ahmed-Hamdy101/autofix-service-platform-demo) · [Case study](https://ahmedhamdy101.is-a.dev/projects/autofix-car-service) |
-| **GIS Sinai Explorer** | Multilingual 3D GIS dashboard for exploring buildings and calculating routes | Next.js, Express, Prisma, PostgreSQL, CesiumJS | [Source](https://github.com/Ahmed-Hamdy101/gis-dashboard) · [Case study](https://ahmedhamdy101.is-a.dev/projects/gis-sinai-explorer) |
-| **AWS Fullstack Deployment** | Node.js/TypeScript app on AWS with an automated CI/CD pipeline | Node.js, Express, TypeScript, Elastic Beanstalk, RDS | [Source](https://github.com/Ahmed-Hamdy101/aws-fullstack-deployment) · [Case study](https://ahmedhamdy101.is-a.dev/projects/aws-fullstack-deployment) |
-| **Node.js Backend Suite** | Storefront API, image-processing microservice, and a MERN app on AWS | Node.js, Express, PostgreSQL, Redis, EC2 | [Source](https://github.com/Ahmed-Hamdy101/nodejs-store-front-api) |
+### Production and public work
+
+| Project | What it is | Language | Stage | Stack | Links |
+| --- | --- | --- | --- | --- | --- |
+| **Egypt Tour Guide** (ET GCO Tours) | Bilingual tourism PWA with bookings, real-time inventory, and Redis caching | TypeScript | Production | Next.js 15, Express, PostgreSQL, Drizzle, Redis | [Live](https://www.egypt-tour-guide.com/) · [Source](https://github.com/Ahmed-Hamdy101/et-gco-tours-showcase) · [Case study](https://ahmedhamdy101.is-a.dev/projects/egypt-tour-guide) |
+| **Alkayan Construction Nova** | Construction company site on a custom PHP MVC framework with 3D cards and a WebGL hero. v2.0 rebuild complete, deployment pending | PHP | Production | Custom MVC, Three.js, GSAP, PHPUnit | [Live](https://www.alkayan-co.com) · [Source](https://github.com/Ahmed-Hamdy101/alkayan-nova-showcase) · [Case study](https://ahmedhamdy101.is-a.dev/projects/alkayan-nova) |
+| **TypeScript AI API** | Fastify REST API exposing OpenAI-powered assistant features through typed endpoints | TypeScript | Production | Fastify, OpenAI, Zod, Vitest, Docker | [Source](https://github.com/Ahmed-Hamdy101/ts-ai-api) · [Case study](https://ahmedhamdy101.is-a.dev/projects/typescript-ai-api) |
+| **Admin REST API** | Laravel API for users, orders, and admin operations with OAuth2 and RBAC | PHP | Production | Laravel, Passport, MySQL, Docker | [Source](https://github.com/Ahmed-Hamdy101/laravel-nextjs-rest-api) · [Case study](https://ahmedhamdy101.is-a.dev/projects/laravel-admin-rest-api) |
+| **AWS Fullstack Deployment** | Node.js/TypeScript app on AWS with an automated CI/CD pipeline | TypeScript | Production | Express, Elastic Beanstalk, RDS, S3, CircleCI | [Source](https://github.com/Ahmed-Hamdy101/aws-fullstack-deployment) · [Case study](https://ahmedhamdy101.is-a.dev/projects/aws-fullstack-deployment) |
+| **Node.js Backend Suite** | Storefront API, image-processing microservice, and a MERN app on AWS | TypeScript | Production | Express, PostgreSQL, Redis, EC2 | [Source](https://github.com/Ahmed-Hamdy101/nodejs-store-front-api) |
+
+### In development
+
+| Project | What it is | Language | Stage | Stack | Links |
+| --- | --- | --- | --- | --- | --- |
+| **ERP Alkayan Cloud** | Internal stock-management system: receive, issue, transfer and adjust materials across warehouses with an audit-safe movement ledger | PHP | Development | Laravel 13, Filament 3, MySQL, Spatie Permission, Docker | Private |
+| **Al Kayan ERP VPN** | Windows hub and client desktop apps managing a WireGuard tunnel that limits ERP access to the VPN subnet | Rust | Development | Tauri 2, WireGuard | Private |
+| **Logger Suite ERP** | Multi-tenant SaaS ERP with RBAC and caching | TypeScript | Development | Next.js 15, Laravel, MySQL, Redis, JWT | [Case study](https://ahmedhamdy101.is-a.dev/projects/logger-suite-erp) |
+| **MoneyWise** | Personal finance app with budgets, goals and free/premium tiers. Backend moving from Flask to FastAPI | Python | Development | React, Vite, FastAPI, SQLite, Stripe | Private |
+| **AutoFix Car Service** | Vehicle repair platform for customers, technicians, and admins with role-based dashboards | TypeScript | Development | Bun, Next.js 16, React 19, Prisma | [Source](https://github.com/Ahmed-Hamdy101/autofix-service-platform-demo) · [Case study](https://ahmedhamdy101.is-a.dev/projects/autofix-car-service) |
+| **GIS Sinai Explorer** | Multilingual 3D GIS dashboard for exploring buildings and calculating routes | TypeScript | Development | Next.js, Express, Prisma, PostgreSQL, CesiumJS | [Source](https://github.com/Ahmed-Hamdy101/gis-dashboard) · [Case study](https://ahmedhamdy101.is-a.dev/projects/gis-sinai-explorer) |
+| **SoleStyle POS** | Offline Windows point-of-sale app with an embedded database and bundled API | JavaScript | Development | Electron, React, Express, SQLite | Private |
+| **VidroTube** | YouTube-style video platform with phased system-design documents | PHP | Development | Laravel, Livewire, MySQL | Private |
+
+### AI projects
+
+| Project | What it is | Language | Stage | Stack | Links |
+| --- | --- | --- | --- | --- | --- |
+| **Jexi AI** | Local-first voice assistant and life coach with persistent memory. Phone actions are drafts you confirm | Python | Development | Ollama, Whisper, ChromaDB, Kotlin companion | [Case study](https://ahmedhamdy101.is-a.dev/projects/jexi-ai) |
+| **AI Trading Desk** | Research tool predicting next-24-bar slope and take-profit probability across crypto, gold and forex. Paper trading only | Python | Development | LightGBM, ccxt, Parquet, LLM sentiment | [Case study](https://ahmedhamdy101.is-a.dev/projects/ai-trading-desk) |
+| **Mythforge Warrior Creator** | Local 3D fantasy character generator: prompt to Blender model to GLB preview | Python | Development | Ollama, Blender, Three.js | [Case study](https://ahmedhamdy101.is-a.dev/projects/mythforge-warrior-creator) |
+| **AdForge** | AI ad copy generator with platform-aware character limits | TypeScript | Development | Next.js, Anthropic API | [Case study](https://ahmedhamdy101.is-a.dev/projects/adforge) |
+| **AI Dev Agent Assistant** | Llama-based developer assistant for tasks, code and project tracking | TypeScript | Development | Express, React, Drizzle, SQLite | Private |
+| **OpsCart AI** | Retail operations platform with AI-assisted forecasting. Design phase | TypeScript | Development | NestJS, Next.js, PostgreSQL | Private |
+| **AnatoGuide** | AR anatomy guidance app with an instructor dashboard | Kotlin | Development | ARCore, Node.js, Prisma, React | Private |
 
 More on the [full projects page](https://ahmedhamdy101.is-a.dev/projects).
 
@@ -83,9 +107,12 @@ More on the [full projects page](https://ahmedhamdy101.is-a.dev/projects).
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-### AI and 3D
+### AI, desktop and 3D
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat&logo=tauri&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![CesiumJS](https://img.shields.io/badge/CesiumJS-6CADDF?style=flat&logo=cesium&logoColor=white)
 
