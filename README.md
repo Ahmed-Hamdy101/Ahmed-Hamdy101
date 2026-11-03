@@ -136,9 +136,8 @@ Currently learning: NestJS and Go.
 
 </td>
 <td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&layout=compact&langs_count=8&exclude_repo=repo-to-ignore&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 </tr>
 </table>
