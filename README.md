@@ -137,7 +137,7 @@ Currently learning: NestJS and Go.
 </td>
 <td>
 
-[![Top Langs](https://stats.justdreamin.space/api/top-langs/?username=Ahmed-Hamdy101&layout=compact&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](./top-langs.svg)
   
 </td>
 </tr>
