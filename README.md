@@ -124,22 +124,12 @@ Currently learning: NestJS and Go.
 - **Raise the quality bar:** security, validation, and testing are part of delivery.
 - **Stay pragmatic:** choose the simplest design that can evolve with the product.
 
-## GitHub activity
+### GitHub Activity
 
-<div align="center">
+![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?cardType=level&theme=github-dark)
 
-<table>
-<tr>
-<td>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Ahmed-Hamdy101&theme=dark)
 
-[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ## Let's work together
 
