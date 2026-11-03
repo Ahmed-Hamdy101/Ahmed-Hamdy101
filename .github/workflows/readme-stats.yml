@@ -2,27 +2,42 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
-  workflow_dispatch:        # allow manual run
+    - cron: "0 */8 * * *"
+  workflow_dispatch:
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Generate Top Languages card
         run: |
-          curl -o top-langs.svg \
-          "https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&layout=compact&langs_count=8&theme=github_dark"
+          # Try main endpoint first
+          curl -sL -o top-langs.svg \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&layout=compact&langs_count=8&theme=github_dark"
+
+          # If file is too small (error), try alternative
+          if [ $(stat -c%s top-langs.svg) -lt 1000 ]; then
+            echo "Main endpoint failed, trying alternative..."
+            curl -sL -o top-langs.svg \
+              "https://github-readme-stats-git-master-git-forks.vercel.app/api/top-langs/?username=Ahmed-Hamdy101&layout=compact&langs_count=8&theme=github_dark"
+          fi
+
+          # Final size check
+          if [ $(stat -c%s top-langs.svg) -lt 1000 ]; then
+            echo "All endpoints failed. Skipping commit."
+            exit 0
+          fi
 
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add top-langs.svg
-          git commit -m "Update top languages card" || exit 0
+          git diff --staged --quiet || git commit -m "Update top languages card"
           git push
