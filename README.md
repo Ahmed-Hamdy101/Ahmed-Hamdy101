@@ -135,11 +135,7 @@ Currently learning: NestJS and Go.
 [![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Hamdy101?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
 
 </td>
-<td>
 
-![Top Langs](./top-langs.svg)
-  
-</td>
 </tr>
 </table>
 
