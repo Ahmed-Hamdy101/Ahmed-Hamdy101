@@ -2,7 +2,7 @@
 
 <img src="./images/background-hero.png" width="900" alt="Ahmed Hamdy - Full Stack Engineer" />
 
-# Ahmed Hamdy
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&multiline=true&width=1100&height=130&lines=Hola%2C+I'm+Ahmed+Hamdy;Full+Stack+Engineer;TypeScript+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+Laravel;PostgreSQL+%C2%B7+Docker+%C2%B7+AWS+%C2%B7+AI+Integration)](https://git.io/typing-svg)
 
